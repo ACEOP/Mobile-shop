@@ -1,0 +1,197 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "apple iphone 15 pro",
+        "price": 134000,
+        "image": { "fields": { "file": { "url": "./images/product-01.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "apple iphone 13",
+        "price": 52000,
+        "image": { "fields": { "file": { "url": "./images/product-02.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Galaxy S23 ultra",
+        "price": 100999,
+        "image": { "fields": { "file": { "url": "./images/product-3.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Google Pixel A7 pro",
+        "price": 65000,
+        "image": { "fields": { "file": { "url": "./images/product-04.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Asus Rog Phone 5",
+        "price": 49999,
+        "image": { "fields": { "file": { "url": "./images/product-05.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "oneplus 11t",
+        "price": 61999,
+        "image": { "fields": { "file": { "url": "./images/product-06.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Nothing Phone 1",
+        "price": 29000,
+        "image": { "fields": { "file": { "url": "./images/product-07.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Xiaomi mi 11 ultra",
+        "price": 69000,
+        "image": { "fields": { "file": { "url": "./images/product-08.png" } } }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Vivo V29",
+        "price": 31000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-09.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "Realme 11 pro+ 5g",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-10.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "iQOO neo 7 pro",
+        "price": 35000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-11.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "Oppo F19 pro",
+        "price": 17000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-12.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "13"
+      },
+      "fields": {
+        "title": "Samsung z Flip",
+        "price": 99999,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-13.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "14"
+      },
+      "fields": {
+        "title": "infinx gt 10 pro",
+        "price": 21000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-14.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "15"
+      },
+      "fields": {
+        "title": "realme narzo 60x",
+        "price": 12000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-15.webp"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "16"
+      },
+      "fields": {
+        "title": "oneplus 11r",
+        "price": 39000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-16.png"
+            }
+          }
+        }
+      }
+    }
+    
+  ]
+}
